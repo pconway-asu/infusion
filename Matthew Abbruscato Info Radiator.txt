@@ -1,0 +1,12 @@
+Matthew Abbruscato
+Information Radiator
+CIS 440 - T/Th Dr. Clark
+
+The desired output of my change proposal is that instead of the current landing page being the BSIMM graph
+The website will have a different landing page that gives a breakdown of what BSIMM is and from 
+there you could login to see or continue as a guest to look at the chart and metrics. This would help people who
+Don't know what the BSIMM metrics are about and would be a cleaner implementation what we have currently.
+
+The implementation would require that we change where the site is directed and how the logins work ad where
+they are located. From where we are currently this would be easy to change however if we decide to add this
+in down the line we would probably experience more issues.
