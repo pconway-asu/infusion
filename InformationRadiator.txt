@@ -1,0 +1,17 @@
+Tyler Matteson 
+CIS 440
+Information Radiator 
+
+	My idea for an addition to the Infusionsoft Security Metrics project is: To add the ability to 
+compare the current Infusion soft BSIM metrics to that of other individual companies instead of just 
+the average of the entire industry, this would include various charts/graphs to visualize the data. 
+Currently the plan is just to compare infusiuonsoft to the industry as a whole but I feel that the 
+data would be worth much more if we could compare to specific companies in order to see where each 
+company focuses most of their efforts. 
+	
+	The implementation for this addition I admit would be a bit complicated and therefore should
+ be left for a later addition of the project. We would need to add a domain object for specific 
+companies as well as the ability to store information on each company in our database. We would also
+ have to program the graph to be more dynamic and user friendly. This addition would be a big 
+undertaking but if we plan on doing this later on in the project we can program such that the 
+addition would not be so difficult. 
