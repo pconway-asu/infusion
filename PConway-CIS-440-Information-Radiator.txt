@@ -1,0 +1,14 @@
+Paul Conway
+CIS 440
+Information Radiator
+ 
+The implementation of a security compliance metric tracker gives a great overview of where the company currently stands regarding security, but it may not tell 
+the whole story. I am proposing is a comparison feature for two points in time in which both BSIMM charts can be compared together side by side so that someone, 
+possibly a potential investor, can easily see where there have been improvements in Infusionsoft’s software security and over what time frame.
+ 
+In order to implement this feature I believe it would require an additional table to keep track of all BSIMM metrics and the date whenever the values are updated. 
+As for the charts to display the feature, I think with a small change in the application view for that specific page, which would have to be created, both charts 
+could be implemented using the existing code.
+ 
+Due to the Grails being a rapid application development environment and the ability to reuse existing code I believe the implementation of this feature could easily 
+be done in a day.
