@@ -1,0 +1,14 @@
+### Information Radiator ###
+I feel that adding a visual aid to the Initiatives page to track the total amount of labor hours estimated to 
+complete all activities within each initiative would make a great addition.  This would allow for a top 
+down overview purely from a labor and staffing point of view.  The graph could be a simple line graph 
+that contains the number of hours required to complete all activities for a given initiative on the y-axis, 
+and a date range on the x-axis.
+As various activities are added, the amount of labor will be added to the total number for a particular 
+activity and vice-versa when activities are completed.  Because the graph will automatically updated 
+based on the information provided from each initiative, the only additional work that a user will have to 
+do is select the amount of hours predicted when they are creating an activity.
+This means that, of course, before implementation, there has to be a small fillable form or drop down 
+box implemented on the activity edit page where the user can enter in the amount of labor hours 
+predicted.
+
