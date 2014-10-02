@@ -44,7 +44,7 @@ Version .3
 -Finished setting up Rally to work, so for the next sprint we will have working burndown charts
 
 The Radar chart is a predefined object in javascript which we implemented in our view portion of the
-model/view/controller format. We wrote it inline in html using <script> tags so there was less issues 
+model/view/controller format. We wrote it inline in html using script tags so there was less issues 
 pointing around to different files(What grails is good for)
 
 This is what our application looks like: 
